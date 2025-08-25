@@ -7,6 +7,7 @@ public class demo {
 	public void run()
 	{
 		System.out.println("**********************");
+		System.out.println("My code");
 	}
 
 }
